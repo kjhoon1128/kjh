@@ -15,7 +15,7 @@ class FoodRecommendationApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: '음식 추천',
+      title: '점심 메뉴 추천',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
